@@ -1,0 +1,37 @@
+{
+  "fs": 2.931,
+  "rpm": 175.86,
+  "peaks": [
+    {
+      "freq": 2.931,
+      "amp": null
+    },
+    {
+      "freq": 3.551,
+      "amp": null
+    },
+    {
+      "freq": 5.905,
+      "amp": null
+    },
+    {
+      "freq": 7.203,
+      "amp": null
+    },
+    {
+      "freq": 8.884,
+      "amp": null
+    },
+    {
+      "freq": 10.806,
+      "amp": null
+    },
+    {
+      "freq": 14.409,
+      "amp": null
+    }
+  ],
+  "Z": 3,
+  "note": "疑似双轴",
+  "is_clear": true
+}

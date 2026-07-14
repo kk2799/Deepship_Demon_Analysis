@@ -1,0 +1,69 @@
+{
+  "fs": 0.759,
+  "rpm": 45.54,
+  "peaks": [
+    {
+      "freq": 0.759,
+      "amp": null
+    },
+    {
+      "freq": 2.116,
+      "amp": null
+    },
+    {
+      "freq": 3.125,
+      "amp": null
+    },
+    {
+      "freq": 4.278,
+      "amp": null
+    },
+    {
+      "freq": 5.239,
+      "amp": null
+    },
+    {
+      "freq": 6.248,
+      "amp": null
+    },
+    {
+      "freq": 7.449,
+      "amp": null
+    },
+    {
+      "freq": 8.458,
+      "amp": null
+    },
+    {
+      "freq": 9.515,
+      "amp": null
+    },
+    {
+      "freq": 10.572,
+      "amp": null
+    },
+    {
+      "freq": 11.629,
+      "amp": null
+    },
+    {
+      "freq": 12.734,
+      "amp": null
+    },
+    {
+      "freq": 13.791,
+      "amp": null
+    },
+    {
+      "freq": 14.848,
+      "amp": null
+    },
+    {
+      "freq": 15.905,
+      "amp": null
+    }
+  ],
+  "Z": 4,
+  "note": "桨叶数不一定，但转速很明确",
+  "is_clear": true
+}

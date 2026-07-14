@@ -1,0 +1,28 @@
+{
+  "fs": 1.287,
+  "rpm": 77.22,
+  "peaks": [
+    {
+      "freq": 1.287,
+      "amp": null
+    },
+    {
+      "freq": 3.894,
+      "amp": null
+    },
+    {
+      "freq": 5.185,
+      "amp": null
+    },
+    {
+      "freq": 7.827,
+      "amp": null
+    },
+    {
+      "freq": 11.719,
+      "amp": null
+    }
+  ],
+  "note": "可以从间隔推断出轴频，但桨叶数不清晰",
+  "is_clear": true
+}

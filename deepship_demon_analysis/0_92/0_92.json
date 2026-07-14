@@ -1,0 +1,33 @@
+{
+  "fs": 1.392,
+  "rpm": 83.52,
+  "peaks": [
+    {
+      "freq": 1.392,
+      "amp": null
+    },
+    {
+      "freq": 2.741,
+      "amp": null
+    },
+    {
+      "freq": 5.623,
+      "amp": null
+    },
+    {
+      "freq": 11.196,
+      "amp": null
+    },
+    {
+      "freq": 16.914,
+      "amp": null
+    },
+    {
+      "freq": 22.583,
+      "amp": null
+    }
+  ],
+  "Z": 4,
+  "note": "轴频较隐蔽",
+  "is_clear": true
+}

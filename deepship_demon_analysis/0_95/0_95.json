@@ -1,0 +1,33 @@
+{
+  "fs": 1.066,
+  "rpm": 63.96,
+  "peaks": [
+    {
+      "freq": 1.066,
+      "amp": null
+    },
+    {
+      "freq": 2.164,
+      "amp": null
+    },
+    {
+      "freq": 3.269,
+      "amp": null
+    },
+    {
+      "freq": 4.326,
+      "amp": null
+    },
+    {
+      "freq": 5.383,
+      "amp": null
+    },
+    {
+      "freq": 6.536,
+      "amp": null
+    }
+  ],
+  "Z": 6,
+  "note": "轴频不明显，通过差值推理得到",
+  "is_clear": true
+}

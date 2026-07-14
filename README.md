@@ -18,7 +18,7 @@ Deepship数据集的舰船辐射噪声 DEMON（Detection of Envelope Modulation 
 每个样本一个子目录，以样本 ID 命名：
 
 ```
-deepship_selected/
+deepship_demon_analysis/
 ├── 0_1/
 │   ├── 0_1.json          # 标注标签
 │   ├── 0_1.npy           # 深度学习提取的 DEMON 谱（1D 数组）
@@ -96,7 +96,7 @@ import json
 import numpy as np
 
 sample_id = "0_1"
-base = f"deepship_selected/{sample_id}/{sample_id}"
+base = f"deepship_demon_analysis/{sample_id}/{sample_id}"
 
 # 加载标签
 with open(f"{base}.json", encoding="utf-8") as f:
@@ -123,10 +123,10 @@ trad_spec_norm = trad_spec / trad_spec.max()
 import os, json
 from collections import Counter
 
-dirs = sorted(os.listdir("deepship_selected"))
+dirs = sorted(os.listdir("deepship_demon_analysis"))
 Z_dist = Counter()
 for d in dirs:
-    with open(f"deepship_selected/{d}/{d}.json", encoding="utf-8") as f:
+    with open(f"deepship_demon_analysis/{d}/{d}.json", encoding="utf-8") as f:
         r = json.load(f)
     if r["is_clear"]:
         Z_dist[r["Z"]] += 1

@@ -1,0 +1,32 @@
+{
+  "fs": 3.173,
+  "rpm": 190.38,
+  "peaks": [
+    {
+      "freq": 3.173,
+      "amp": null
+    },
+    {
+      "freq": 6.296,
+      "amp": null
+    },
+    {
+      "freq": 9.467,
+      "amp": null
+    },
+    {
+      "freq": 12.638,
+      "amp": null
+    },
+    {
+      "freq": 15.76,
+      "amp": null
+    },
+    {
+      "freq": 19.027,
+      "amp": null
+    }
+  ],
+  "note": "只能分析出转速，叶数未知",
+  "is_clear": true
+}

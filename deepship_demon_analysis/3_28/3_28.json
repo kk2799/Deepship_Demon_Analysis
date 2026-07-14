@@ -1,0 +1,24 @@
+{
+  "fs": 4.566,
+  "rpm": 273.96,
+  "peaks": [
+    {
+      "freq": 4.566,
+      "amp": null
+    },
+    {
+      "freq": 9.179,
+      "amp": null
+    },
+    {
+      "freq": 13.791,
+      "amp": null
+    },
+    {
+      "freq": 18.349,
+      "amp": null
+    }
+  ],
+  "note": "轴频清晰，桨叶数不好判断",
+  "is_clear": true
+}

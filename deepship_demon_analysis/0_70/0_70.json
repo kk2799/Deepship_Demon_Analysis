@@ -1,0 +1,33 @@
+{
+  "fs": 2.404,
+  "rpm": 144.24,
+  "peaks": [
+    {
+      "freq": 2.404,
+      "amp": null
+    },
+    {
+      "freq": 2.879,
+      "amp": null
+    },
+    {
+      "freq": 4.855,
+      "amp": null
+    },
+    {
+      "freq": 5.809,
+      "amp": null
+    },
+    {
+      "freq": 7.161,
+      "amp": null
+    },
+    {
+      "freq": 9.605,
+      "amp": null
+    }
+  ],
+  "Z": 3,
+  "note": "疑似双轴，或有其它目标干扰",
+  "is_clear": true
+}

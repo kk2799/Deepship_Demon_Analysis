@@ -1,0 +1,21 @@
+{
+  "fs": 4.08,
+  "rpm": 244.8,
+  "peaks": [
+    {
+      "freq": 4.08,
+      "amp": null
+    },
+    {
+      "freq": 8.212,
+      "amp": null
+    },
+    {
+      "freq": 12.247,
+      "amp": null
+    }
+  ],
+  "Z": 3,
+  "note": "有强干扰",
+  "is_clear": true
+}

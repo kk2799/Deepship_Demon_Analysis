@@ -1,0 +1,48 @@
+{
+  "fs": 1.15,
+  "rpm": 69.0,
+  "peaks": [
+    {
+      "freq": 1.15,
+      "amp": null
+    },
+    {
+      "freq": 2.206,
+      "amp": null
+    },
+    {
+      "freq": 4.656,
+      "amp": null
+    },
+    {
+      "freq": 5.761,
+      "amp": null
+    },
+    {
+      "freq": 6.914,
+      "amp": null
+    },
+    {
+      "freq": 9.269,
+      "amp": null
+    },
+    {
+      "freq": 10.422,
+      "amp": null
+    },
+    {
+      "freq": 11.527,
+      "amp": null
+    },
+    {
+      "freq": 13.833,
+      "amp": null
+    },
+    {
+      "freq": 20.847,
+      "amp": null
+    }
+  ],
+  "note": "轴频可通过倍频的差推出，桨叶数无法判别",
+  "is_clear": true
+}

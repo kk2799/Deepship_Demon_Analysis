@@ -1,0 +1,28 @@
+{
+  "fs": 3.844,
+  "rpm": 230.64,
+  "peaks": [
+    {
+      "freq": 3.844,
+      "amp": null
+    },
+    {
+      "freq": 7.587,
+      "amp": null
+    },
+    {
+      "freq": 11.575,
+      "amp": null
+    },
+    {
+      "freq": 15.418,
+      "amp": null
+    },
+    {
+      "freq": 19.262,
+      "amp": null
+    }
+  ],
+  "note": "只能判断转速",
+  "is_clear": true
+}

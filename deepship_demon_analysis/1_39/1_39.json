@@ -1,0 +1,25 @@
+{
+  "fs": 2.602,
+  "rpm": 156.12,
+  "peaks": [
+    {
+      "freq": 2.602,
+      "amp": null
+    },
+    {
+      "freq": 5.137,
+      "amp": null
+    },
+    {
+      "freq": 7.827,
+      "amp": null
+    },
+    {
+      "freq": 10.422,
+      "amp": null
+    }
+  ],
+  "Z": 4,
+  "note": "轴频需根据倍频推理得到",
+  "is_clear": true
+}

@@ -1,0 +1,24 @@
+{
+  "fs": 2.501,
+  "rpm": 150.06,
+  "peaks": [
+    {
+      "freq": 2.501,
+      "amp": null
+    },
+    {
+      "freq": 4.999,
+      "amp": null
+    },
+    {
+      "freq": 7.545,
+      "amp": null
+    },
+    {
+      "freq": 12.494,
+      "amp": null
+    }
+  ],
+  "note": "桨叶数不好判断，但轴频转速明确",
+  "is_clear": true
+}

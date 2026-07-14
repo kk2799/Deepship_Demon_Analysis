@@ -1,0 +1,24 @@
+{
+  "fs": 1.824,
+  "rpm": 109.44,
+  "peaks": [
+    {
+      "freq": 1.824,
+      "amp": null
+    },
+    {
+      "freq": 3.75,
+      "amp": null
+    },
+    {
+      "freq": 5.473,
+      "amp": null
+    },
+    {
+      "freq": 7.395,
+      "amp": null
+    }
+  ],
+  "Z": 4,
+  "is_clear": true
+}
